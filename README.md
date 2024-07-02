@@ -9,7 +9,7 @@ local profile = {
     }
 }
 ```
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
