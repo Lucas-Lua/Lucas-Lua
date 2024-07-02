@@ -1,10 +1,11 @@
 ```lua
 local profile = {
     name = "Lucas",
-    age = "unknown",
+    age = "?????",
     skills = { "Lua" },
+    hobby = "Sleep",
     contact = {
-        discord = "lucas093556",
+        discord = "lucas093556"
     }
 }
 ```
