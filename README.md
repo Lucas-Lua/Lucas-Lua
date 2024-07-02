@@ -13,6 +13,6 @@ local profile = {
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,vscode" />
+    <img src="https://skillicons.dev/icons?i=lua,vscode,discord,windows" />
   </a>
 </p>
